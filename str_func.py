@@ -1,3 +1,11 @@
 def str_func(stroke):
-    """функция возвращает строку заглавными буквами"""
+    """
+    возвращает все заглавные буквы строки
+    """
     return str.title(stroke)
+
+def str_title(stroke):
+    """
+    возвращает первую заглавную
+    """
+    return  str.title(stroke)
